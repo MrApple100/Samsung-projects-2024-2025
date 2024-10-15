@@ -11,14 +11,7 @@ fun main() {
 //    var cabriolet = Cabriolet(Color.RED,777,"BMW",false)//конструктор
 //    var gruzovik = Gruzovik(gosNomer = 111, color = Color.BLUE, model = "GAZ", destination = Destination.West)
 //
-//    car1.poBibikati()
-//    println(Car.count)
-//    car2.poBibikati()
-//    println(Car.count)
-//    car3.poBibikati()
-//    println(Car.count)
-//    car4.poBibikati()
-//    println(Car.count)
+
 
 //    cabriolet.changeStateRoof()
 //    cabriolet.poBibikati()
