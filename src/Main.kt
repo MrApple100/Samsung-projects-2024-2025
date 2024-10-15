@@ -19,8 +19,7 @@ fun main() {
 //    println(Car.count)
 //    car4.poBibikati()
 //    println(Car.count)
-//
-//
+
 //    cabriolet.changeStateRoof()
 //    cabriolet.poBibikati()
 //    gruzovik.poBibikati()
